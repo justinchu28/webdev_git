@@ -1,0 +1,21 @@
+body {
+  background-color: MintCream;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-width: 5px;
+  border-color: DarkGray;
+  width: 5%;
+  /* margin-left: 25;
+  margin-right: 25; */
+}
+
+h1 {
+  color: #66BFBF
+}
+
+h3 {
+  color: #66BFBF
+}
