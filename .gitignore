@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Calculator/node_modules
+/FruitsProject/node_modules
+/my-express-server/node_modules
+/todolist-v1/node_modules
+/todolist-v2-starting-files/node_modules
+/WeatherProject/node_modules
